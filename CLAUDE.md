@@ -55,3 +55,20 @@ genera y valida tests pytest con Claude.
 - Dev: `npm run dev`
 - Build: `npm run build`
 - Deploy: automático vía Vercel al hacer push a main
+
+## Estado actual
+
+**Última actualización**: 2026-11-11 (post-sesión 1)
+
+- Landing v1 construida y funcional en localhost
+- Todas las secciones implementadas: Nav, Hero, Terminal, Features,
+  Installation, Stats, Waitlist, Footer
+- El repo ya es público
+
+### Pendiente para la próxima sesión
+
+- [ ] Deploy en Vercel
+- [ ] Ajustar `metadataBase` (en `app/layout.tsx`) al dominio real
+- [ ] Conectar el dominio lanzakit.dev desde Porkbun
+- [ ] Verificar perfiles reales de X y LinkedIn (hoy son placeholders en
+      `lib/links.ts`)
