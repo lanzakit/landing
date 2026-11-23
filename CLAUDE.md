@@ -15,7 +15,6 @@ genera y valida tests pytest con Claude.
 1. Presentar el producto a devs hispanohablantes
 2. Capturar emails en waitlist (via Mailerlite)
 3. Linkear a GitHub y PyPI
-4. Servir como portfolio premium para CV
 
 ## Stack técnico
 
